@@ -1,0 +1,6 @@
+{
+    "projectManager.git.baseFolders": [
+        "https://github.com/ramsunder2000/UI_Projects.git"
+    ],
+    "git.postCommitCommand": "push"
+}
